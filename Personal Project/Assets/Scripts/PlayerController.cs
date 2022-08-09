@@ -1,5 +1,4 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -15,8 +14,12 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        MovePlayer();
         ConstrainPlayerPosition();
+    }
+
+    private void FixedUpdate()
+    {
+        MovePlayer();
     }
 
     private void MovePlayer()
@@ -33,7 +36,23 @@ public class PlayerController : MonoBehaviour
     private void ConstrainPlayerPosition()
     {
         var position = transform.position;
-        position = new Vector3(position.x, position.y, Math.Clamp(position.z, -ZBound, ZBound));
+        position = new Vector3(position.x, position.y, Mathf.Clamp(position.z, -ZBound, ZBound));
         transform.position = position;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Player collided with enemy");
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("PowerUp"))
+        {
+            Destroy(other.gameObject);
+        }
     }
 }
