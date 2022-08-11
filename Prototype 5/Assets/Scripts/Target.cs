@@ -7,8 +7,11 @@ public class Target : MonoBehaviour
     [SerializeField] private float maxTorque = 10;
     [SerializeField] private float xRange = 4;
     [SerializeField] private float ySpawnPosition = -6;
+    [SerializeField] private int pointValue;
+    [SerializeField] private ParticleSystem explosionParticle;
 
     private Rigidbody _rb;
+    private GameManager _gm;
 
     private void Awake()
     {
@@ -21,11 +24,14 @@ public class Target : MonoBehaviour
         maxTorque = 10;
         _rb.AddTorque(RandomTorque(), RandomTorque(), RandomTorque(), ForceMode.Impulse);
         transform.position = RandomSpawnPosition();
+        _gm = GameObject.Find("Game Manager").GetComponent<GameManager>();
     }
 
     private void OnMouseDown()
     {
         Destroy(gameObject);
+        Instantiate(explosionParticle, transform.position, Quaternion.identity);
+        _gm.UpdateScore(pointValue);
     }
 
     private void OnTriggerEnter(Collider other)
