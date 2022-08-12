@@ -29,6 +29,8 @@ public class Target : MonoBehaviour
 
     private void OnMouseDown()
     {
+        if (!_gm.isGameActive) return;
+
         Destroy(gameObject);
         Instantiate(explosionParticle, transform.position, Quaternion.identity);
         _gm.UpdateScore(pointValue);
@@ -37,6 +39,10 @@ public class Target : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         Destroy(gameObject);
+        if (!gameObject.CompareTag("Bad"))
+        {
+            _gm.GameOver();
+        }
     }
 
     private Vector3 RandomForce()
