@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
+using UnityEngine.Serialization;
 
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody _rb;
 
-    private const float Speed = 10.0f;
+    [SerializeField] private float speed = 10.0f;
     private const float ZBound = 6.0f;
 
     private void Awake()
@@ -30,7 +31,7 @@ public class PlayerController : MonoBehaviour
         var input = new Vector3(horizontalInput, 0, verticalInput);
         var direction = input.normalized;
 
-        _rb.AddForce(direction * (input.magnitude * Speed));
+        _rb.AddForce(direction * (input.magnitude * speed));
     }
 
     private void ConstrainPlayerPosition()
