@@ -2,143 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18287ed6-5f0d-4894-9e5a-6c159ad437b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Personal Project/Assets/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Personal Project/Assets/Prefabs/Enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Personal Project/Assets/Scenes/My Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Personal Project/Assets/Scenes/My Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Personal Project/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Personal Project/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/Prop_Barrier01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/Prop_Barrier01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/Prop_Barrier02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/Prop_Barrier02.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SK_Veh_Armor_Car_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SK_Veh_Armor_Car_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Prop_Barrel_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Prop_Barrel_02.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Prop_Crate_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Prop_Crate_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Prop_Spool_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Prop_Spool_02.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Rock_Boulder_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/SM_Rock_Boulder_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Bus_Blue_Z.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Bus_Blue_Z.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Car_Blue_Z.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Car_Blue_Z.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Ute_Red_Z.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Ute_Red_Z.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Van_Green_Z.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/ST_Veh_Van_Green_Z.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/Triangular_Prism.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/Triangular_Prism.obj.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/road_straight_mesh.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/FBX/road_straight_mesh.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Misc/MountainSkybox.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Misc/MountainSkybox.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Misc/SkyDome.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Misc/SkyDome.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Textures/road-tiled.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Course Library/_Source_Files/Textures/road-tiled.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Scenes/Prototype 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Scripts/FollowPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Scripts/FollowPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 1/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 1/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/Humans/SimpleFarmer_Woman_02_Brown.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/Humans/SimpleFarmer_Woman_02_Brown.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/Humans/SimpleFarmer_Woman_02_Brown.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/Humans/SimpleFarmer_Woman_02_Brown.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Animations.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Animations.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Animations_IK.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Animations_IK.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Animations_Static.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Animations_Static.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Deer.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Deer.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Deer.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Deer.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Fox.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Fox.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Fox.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Fox.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Cookie_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Cookie_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Cookie_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Cookie_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_EnergyCan_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_EnergyCan_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_EnergyCan_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_EnergyCan_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Pizza_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Pizza_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Pizza_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Pizza_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Sandwich_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Sandwich_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Sandwich_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Sandwich_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Wine_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Wine_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Wine_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/Items_Wine_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Birds.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Birds.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Birds.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Birds.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Chick.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Chick.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Chick.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Chick.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_CowBull.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_CowBull.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_CowBull.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_CowBull.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Horse.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Horse.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Horse.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SA_Animal_Horse.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Fish_Cooked.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Fish_Cooked.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Fish_Cooked.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Fish_Cooked.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_03.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_03.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_03.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Apple_03.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Carrot.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Carrot.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Carrot.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Carrot.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Pear_02.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Pear_02.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Pear_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SI_Food_Organic_Pear_02.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Icon_Banana_02.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Icon_Banana_02.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Icon_Banana_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Icon_Banana_02.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Bone_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Bone_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Bone_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Bone_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Steak_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Steak_01.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Steak_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SM_Prop_Steak_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SimpleDogs.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SimpleDogs.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SimpleFarm_Characters.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SimpleFarm_Characters.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SimpleFarm_Characters.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/FBX/SimpleFarm_Characters.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Materials/SimpleDogs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Materials/SimpleDogs.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Materials/SimpleDogs.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Materials/SimpleDogs.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/PolygonPrototype_Texture_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/PolygonPrototype_Texture_01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/PolygonPrototype_Texture_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/PolygonPrototype_Texture_01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleAnimalsFarm.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleAnimalsFarm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleAnimalsFarm.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleAnimalsFarm.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleDogs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleDogs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleDogs.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleDogs.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Black.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Black.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Brown.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Brown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Brown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_Brown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_White.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_White.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmWrangler_White.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Black.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Black.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Brown.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Brown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Brown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_Brown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_White.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_White.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_Farmer_White.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Black.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Black.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Brown.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Brown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Brown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_Brown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_White.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_White.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersDaughter_White.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Black.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Black.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Brown.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Brown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Brown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_Brown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_White.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_White.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleFarmer_FarmersWife_White.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleForestAnimalsTexture.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleForestAnimalsTexture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleForestAnimalsTexture.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleForestAnimalsTexture.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleItems.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleItems.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleItems.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleItems.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleShopInterior_Texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleShopInterior_Texture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleShopInterior_Texture.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/SimpleShopInterior_Texture.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Conrete.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Conrete.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Conrete.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Conrete.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Grass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Grass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Grass.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Gravel.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Gravel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Gravel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Gravel.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Sand.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Sand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Sand.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Course Library/_Source_Files/Textures/Texture_Sand.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Animal_Doe_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Animal_Doe_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Animal_Fox_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Animal_Fox_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Animal_Moose_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Animal_Moose_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Food_Pizza_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Food_Pizza_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Player Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Prefabs/Player Variant.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scenes/Prototype 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DestroyOutOfBounds.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DestroyOutOfBounds.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DestroyOutOfBounds.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DestroyOutOfBounds.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DetectCollisions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DetectCollisions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DetectCollisions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/DetectCollisions.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 2/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 2/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 5.dir/.idea/shelf/Uncommitted_changes_before_Merge_at_14_08_2022__17_25__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 5.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 5.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,21 +13,40 @@
   <component name="Git.Settings">
     <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Personal Project/Assets/Prefabs/Enemy.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 1/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 1/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 2/Assets/Course Library/Humans/SimpleFarmer_Woman_02_Brown.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 2/Assets/Course Library/Humans/SimpleFarmer_Woman_02_Brown.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 5/Assets/Course Library/_Source_Files/SimpleFX/Materials/UnlitVertexColour_Alpha.shader" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 5/Assets/Course Library/_Source_Files/SimpleFX/Materials/UnlitVertexColour_Alpha.shader" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/salikhmagomedov/Programming/Gamedev/Create-with-Code/Prototype 5/Assets/Course Library/_Source_Files/SimpleFX/Materials/UnlitVertexColour_Alpha.shader" root0="SKIP_HIGHLIGHTING" />
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="0ab91cb4216649b46073bef735814eebb2e2a60f" />
   </component>
+  <component name="ProjectId" id="2DM6I34YE21gqXcbbqjKPIzO3lk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18287ed6-5f0d-4894-9e5a-6c159ad437b6" name="Changes" comment="" />
+      <created>1660496523932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660496523932</updated>
+      <workItem from="1660496525962" duration="10000" />
+      <workItem from="1660496539858" duration="781000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
@@ -176,5 +60,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
