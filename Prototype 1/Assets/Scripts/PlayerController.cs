@@ -7,25 +7,25 @@ public class PlayerController : MonoBehaviour
     [Range(1, 2)] public int playerId = 1;
     public KeyCode cameraTypeKey = KeyCode.F;
     
-    private const float Speed = 20f;
-    private const float TurnSpeed = 25f;
+    [SerializeField] private float speed = 20f;
+    [SerializeField] private float turnSpeed = 25f;
     
-    private float _horizontalInput;
-    private float _forwardInput;
+    [SerializeField] private float horizontalInput;
+    [SerializeField] private float forwardInput;
 
-    private string _horizontal;
-    private string _vertical;
+    [SerializeField] private string horizontal;
+    [SerializeField] private string vertical;
 
     private void Start()
     {
-        _horizontal = $"Horizontal{playerId}";
-        _vertical = $"Vertical{playerId}";
+        horizontal = $"Horizontal{playerId}";
+        vertical = $"Vertical{playerId}";
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
-        _horizontalInput = Input.GetAxis(_horizontal);
-        _forwardInput = Input.GetAxis(_vertical);
+        horizontalInput = Input.GetAxis(horizontal);
+        forwardInput = Input.GetAxis(vertical);
 
         if (Input.GetKeyDown(cameraTypeKey))
         {
@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
         }
         
         // Move the vehicle forward
-        transform.Translate(Vector3.forward * (Time.deltaTime * Speed * _forwardInput));
-        transform.Rotate(Vector3.up, Time.deltaTime * TurnSpeed * _horizontalInput);
+        transform.Translate(Vector3.forward * (Time.deltaTime * speed * forwardInput));
+        transform.Rotate(Vector3.up, Time.deltaTime * turnSpeed * horizontalInput);
     }
 }
